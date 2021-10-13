@@ -1,0 +1,60 @@
+
+*
+
+{
+
+    
+    background: rgb(245, 241, 241);
+}
+
+
+
+
+table
+{
+    margin: 0 auto;
+    text-align: center;
+    border-collapse: collapse;
+    
+}
+td, th /* Mettre une bordure sur les td ET les th */
+{
+    border: 1px solid black;
+    height: 50px;
+    width: 120px;
+    
+   
+    
+}
+
+.rdv
+
+{
+ background: rgb(240, 29, 29);
+}
+
+.transport
+
+{
+    background: rgb(72, 72, 143);
+}
+
+.green
+
+{
+    background: rgb(90, 212, 90);
+}
+
+
+form,h1
+
+{
+    align-items: center;
+    text-align: center;
+}
+
+input
+
+{
+    align-items: center;
+}
